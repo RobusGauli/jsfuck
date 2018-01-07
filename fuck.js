@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+
 
 var stream = require('stream');
 var util = require('util');
